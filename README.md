@@ -9,6 +9,10 @@ I'm a software engineer turned mathematician turned software engineer and an Ind
 </br>
 Currently working on x, y and z.
 
+More info about me [on my website](https://www.tzionis.com/cv).
+
+
+
 </br>
 </br>
 </br>
