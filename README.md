@@ -15,8 +15,8 @@ More info about me [on my website](https://www.tzionis.com/cv).
 
 ### 📊 Stats
 
-<img align="left" width="45%" height="200" src="https://github-readme-stats.vercel.app/api?username=LiveDuo&show_icons=true&theme=dark"/>
-<img align="right" width="45%" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=LiveDuo&theme=dark"/>
+<img align="left" width="45%" height="200" src="https://github-readme-stats.vercel.app/api?username=LiveDuo&show_icons=true"/>
+<img align="right" width="45%" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=LiveDuo"/>
 
 <!-- [![Github Stats](https://github-readme-stats.vercel.app/api?username=LiveDuo&show_icons=true&theme=dark&hide_title=true)](https://github.com/LiveDuo) -->
 
@@ -35,14 +35,14 @@ More info about me [on my website](https://www.tzionis.com/cv).
 
 ### 🏆 Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=LiveDuo&theme=radical&margin-w=40&margin-h=40)](https://github.com/LiveDuo)
+[![trophy](https://github-profile-trophy.vercel.app/?username=LiveDuo&margin-w=40&margin-h=40)](https://github.com/LiveDuo)
 
 </br>
 </br>
 
 ### Bad joke of the day 🙈
 
-<img src="https://readme-jokes.vercel.app/api" />
+<img src="https://readme-jokes.vercel.app/api?theme=graywhite" />
 
 Visitors (since 22/8/21)
 
