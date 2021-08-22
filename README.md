@@ -37,16 +37,13 @@ More info about me [on my website](https://www.tzionis.com/cv).
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=LiveDuo&theme=radical&margin-w=40&margin-h=40)](https://github.com/LiveDuo)
 
-### Random 🙈
+</br>
+</br>
 
-👉 Bad joke of the day
+### Bad joke of the day 🙈
 
-<img align="center" src="https://readme-jokes.vercel.app/api" />
+<img src="https://readme-jokes.vercel.app/api" />
 
-👉 Most used languages
+Visitors (since 22/8/21)
 
-[![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LiveDuo&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/LiveDuo)
-
-👉 Visitors (since 22/8/21)
-
-<img align="center" src="https://profile-counter.glitch.me/{LiveDuo}/count.svg" />
+<img src="https://profile-counter.glitch.me/{LiveDuo}/count.svg" />
