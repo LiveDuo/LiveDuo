@@ -5,11 +5,11 @@ I'm Andreas.
 
 <img align="right" width="300" height="250" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer.gif">
 
-I'm a software engineer turned mathematician turned software engineer again and an Indie Hacker 🪵🔥. 
+A software engineer turned mathematician turned software engineer again and an Indie Hacker 🪵🔥. 
 
-I'm building products stuff that I think are missing and share them with people! 
+I'm building products and stuff that I think are missing and share them with people! 
 
-Also, I created an OSS landing page builder for Next.js that run locally and has no external dependencies!
+Also, I've created an OSS landing page builder for Next.js that run locally and has no external dependencies!
 
 Currently working on:
 - [Diagram](https://www.ondiagram.com) - A lightening-fast nocode backend builder that supports MongoDB and Stripe.
