@@ -12,11 +12,11 @@ I'm building products and stuff that I think are missing and share them with peo
 Also, I've created an OSS landing page builder for Next.js that run locally and has no external dependencies!
 
 Currently working on:
-- [Diagram](https://www.ondiagram.com) - A lightening-fast nocode backend builder that supports MongoDB and Stripe.
 - [Destack](https://github.com/LiveDuo/destack) - A visual landing builder that runs locally in your Next.js project.
 - [Pretty Funnels](https://www.prettyfunnels.com) - A free marketing funnel tool for campaign visualisation and forecasting.
+- [Diagram](https://www.ondiagram.com) - A lightening-fast nocode backend builder that supports MongoDB and Stripe.
 
-More about me [on my personal site](https://www.tzionis.com/cv).
+More on my [personal site](https://www.tzionis.com/cv).
 
 <!-- <img src="https://readme-jokes.vercel.app/api?theme=graywhite" /> -->
 
