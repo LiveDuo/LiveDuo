@@ -5,18 +5,16 @@ I'm Andreas.
 
 <img align="right" width="300" height="250" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer.gif">
 
-A software engineer turned mathematician turned software engineer again and an Indie Hacker 🪵🔥. 
+I'm building products and tools I think are missing, and share them on the Internet 🪵🔥!
 
-I'm building products and stuff that I think are missing and share them with people! 
-
-Also, I've created an OSS landing page builder for Next.js that run locally and has no external dependencies!
+Also, I've created an OSS landing page builder for Next.js that run locally and requires no third-party!
 
 Currently working on:
 - [Destack](https://github.com/LiveDuo/destack) - A visual landing builder that runs locally in your Next.js project.
 - [Pretty Funnels](https://www.prettyfunnels.com) - A free marketing funnel tool for campaign visualisation and forecasting.
 - [Diagram](https://www.ondiagram.com) - A lightening-fast nocode backend builder that supports MongoDB and Stripe.
 
-More on my [personal site](https://www.tzionis.com/cv).
+More on my [personal site](https://www.tzionis.com).
 
 <!-- <img src="https://readme-jokes.vercel.app/api?theme=graywhite" /> -->
 
