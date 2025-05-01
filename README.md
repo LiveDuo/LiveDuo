@@ -7,7 +7,7 @@ I'm Andreas.
 
 I'm building products and tools I think are missing, and share them on the Internet 🪵🔥!
 
-Also, I've created an OSS landing page builder for Next.js that run locally and requires no third-party!
+Also, I've created an OSS landing page builder for Next.js that runs locally and requires no third-party!
 
 Currently working on:
 - [Destack](https://github.com/LiveDuo/destack) - A visual landing builder that runs locally in your Next.js project.
